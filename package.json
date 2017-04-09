@@ -1,0 +1,27 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "game",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacquc2/tictactoe.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "jacqueline and maria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacquc2/tictactoe/issues"
+  },
+  "homepage": "https://github.com/jacquc2/tictactoe#readme",
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "botbuilder-cognitiveservices": "^1.0.1",
+    "restify": "^4.3.0"
+  }
+}
