@@ -1,6 +1,5 @@
 var restify = require('restify');
 var builder = require('botbuilder');
-var cognitiveservices = require('botbuilder-cognitiveservices');
 var request = require('request');
 var cheerio = require('cheerio');
 
